@@ -1,5 +1,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<style type="text/css">
 
+    .panel-group {
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+</style>
 <div class="panel-group col-sm-2" id="hrms_sidebar_left" role="tablist" aria-multiselectable="true">
     <ul class="nav nav-pills nav-stacked emp_sidebar">
         <li role="presentation" class="active">
