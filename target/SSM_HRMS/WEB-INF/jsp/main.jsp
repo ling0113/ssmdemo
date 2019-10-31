@@ -2,6 +2,13 @@
 <html>
 <head>
     <title>XXX公司人力资源系统后台</title>
+    <style type="text/css">
+        .carousel {
+            position: relative;
+            top: 20px;
+        }
+     
+    </style>
 </head>
 <body>
 <div class="hrms_container">
